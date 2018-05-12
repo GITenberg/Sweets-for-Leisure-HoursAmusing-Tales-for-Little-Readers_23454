@@ -1,0 +1,30 @@
+_repo: Sweets-for-Leisure-HoursAmusing-Tales-for-Little-Readers_23454
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Phillips, A.
+    gutenberg_agent_id: '25850'
+    url: http://www.gutenberg.org/2009/agents/25850
+  - agent_name: Phillips, E.
+    gutenberg_agent_id: '25851'
+    url: http://www.gutenberg.org/2009/agents/25851
+description: ''
+gutenberg_issued: '2007-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23454'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile poetry'
+- !lcsh 'Children''s poetry, English'
+- !lcc 'PZ'
+title: 'Sweets for Leisure Hours
+
+  Amusing Tales for Little Readers'
+url: http://www.gutenberg.org/ebooks/23454
